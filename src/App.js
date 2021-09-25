@@ -5,12 +5,12 @@ import Courses from './Cpmponents/Courses/Courses'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className="App-header">
         <Header></Header>
         <div>
-          <Courses/>
+          <Courses></Courses>
         </div>
-      </header>
+      </div>
     </div>
   );
 }
