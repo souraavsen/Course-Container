@@ -3,7 +3,7 @@
     "id": 1,
     "Name": "Explore Js",
     "Img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
-    "Fee": 500,
+    "Fee": 300.99,
     "Instructor": "Jhankar Mahabub",
     "Duration": 2.5,
     "Rating": 4
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "Name": "Amazon Clone with Jhankar Mahabub",
+    "Name": "Amazon Clone",
     "Img": "https://images-na.ssl-images-amazon.com/images/I/31%2BDgxPWXtL.jpg",
     "Fee": 2000,
     "Instructor": "Jhankar Mahabub",
@@ -38,8 +38,8 @@
   {
     "id": 5,
     "Name": "CSS Grid",
-    "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
-    "Fee": 1500,
+    "Img": "https://i.morioh.com/2020/05/01/768324f99431.jpg",
+    "Fee": 1599,
     "Instructor": "Kavin Powell",
     "Duration": 2.0,
     "Rating": 1.5
@@ -48,7 +48,7 @@
     "id": 6,
     "Name": "Postmortom of Js",
     "Img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
-    "Fee": 400,
+    "Fee": 450.99,
     "Instructor": "Brad Traversy",
     "Duration": 3,
     "Rating": 5
@@ -56,16 +56,16 @@
   {
     "id": 7,
     "Name": "React",
-    "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+    "Img": "https://images.ctfassets.net/51xdmtqw3t2p/2w0H06U9MYaJNsonXhyD3I/0cd72a4b4e01460bcd7145e984b05c38/Portada_react.jpg?w=1280&q=50",
     "Fee": 1000,
     "Instructor": "Jhankar Mahabub",
-    "Duration": 4.3,
+    "Duration": 0.8,
     "Rating": 4.2
   },
   {
     "id": 9,
-    "Name": "Build with Django",
-    "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+    "Name": "Build Site with Django",
+    "Img": "https://juststickers.in/wp-content/uploads/2016/05/django-badge.png",
     "Fee": 600,
     "Instructor": "Net Ninja",
     "Duration": 4,
@@ -74,25 +74,25 @@
   {
     "id": 8,
     "Name": "Explore Redux",
-    "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+    "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAibSLAdumHBxujLQIOUehawO8ITWVrOttyQtoyIVN0njk1K6nbMChF0wWI-pO8NhI6I&usqp=CAU",
     "Fee": 1500,
     "Instructor": "Jhankar Mahabub",
     "Duration": 3,
-    "Rating": 4.3
+    "Rating": 4.5
   },
   {
     "id": 10,
     "Name": "Explore Ruby",
-    "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+    "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQWFnnlAL2lcLtjUKEh3v4BrQ9hQBFgiRKjRsU0-bnd9v6qq5pCNe4rKqJ9stHC8jZhs&usqp=CAU",
     "Fee": 500,
     "Instructor": "Jhankar Mahabub",
-    "Duration": 2.3,
+    "Duration": 2.5,
     "Rating": 4
   },
   {
     "id": 11,
     "Name": "Interactive with Js",
-    "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+    "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7mehPSdRFXhig7ojkVNrkL0B215ic_t4OXg&usqp=CAU",
     "Fee": 700,
     "Instructor": "Anisul Islam",
     "Duration": 4.0,
@@ -101,10 +101,37 @@
   {
     "id": 12,
     "Name": "PHP Basic",
-    "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+    "Img": "https://i.ytimg.com/vi/wCZ5TJCBWMg/maxresdefault.jpg",
+    "Fee": 999,
+    "Instructor": "Jhankar Mahabub",
+    "Duration": 2.5,
+    "Rating": 4.5
+  },
+  {
+    "id": 13,
+    "Name": "Get Started with Laravel",
+    "Img": "https://cms-assets.tutsplus.com/uploads/users/71/courses/854/preview_image/get-started-with-laravel-6-400x277.png",
+    "Fee": 650.35,
+    "Instructor": "Brad Traversy",
+    "Duration": 2.0,
+    "Rating": 4.0
+  },
+  {
+    "id": 14,
+    "Name": "Laravel Architecture",
+    "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGB6mZ2zRVkN5YNXcxZKHjtquELRLoxWaSg&usqp=CAU",
+    "Fee": 101.99,
+    "Instructor": "Jhankar Mahabub",
+    "Duration": 0.9,
+    "Rating": 3.6
+  },
+  {
+    "id": 15,
+    "Name": "Tailwind CSS",
+    "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrUJNI8n7OHxkNTfyl1PGpF4ieFtfVl7t7Gpa2brrLJT1SRSD9estZpEsjEpwrFmJv_3M&usqp=CAU",
     "Fee": 999,
     "Instructor": "Jhankar Mahabub",
     "Duration": 2.0,
-    "Rating": 4.5
+    "Rating": 3.5
   }
 ]
