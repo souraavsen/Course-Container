@@ -4,8 +4,8 @@
     "Name": "Explore Js",
     "Img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
     "Fee": 500,
-    "Instrctor": "Jhankar Mahabub",
-    "Duration": 2.30,
+    "Instructor": "Jhankar Mahabub",
+    "Duration": 2.5,
     "Rating": 4
   },
   {
@@ -13,16 +13,16 @@
     "Name": "Hoisting in Js",
     "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5a6wVrZsdBxqjXB8-3Ll4Fl6cXsiLpY2e88Ckrhze959d2J865ldxfZ3rkpuaPWrtIE&usqp=CAU",
     "Fee": 200,
-    "Instrctor": "Sumit Shaha",
+    "Instructor": "Sumit Shaha",
     "Duration": 1.00,
     "Rating": 3.5
   },
   {
     "id": 3,
-    "Name": "Explore Js",
+    "Name": "CSS Explore in 30min",
     "Img": "https://miro.medium.com/max/653/1*27GzmuwyW2dRA2KwzP6OEw.png",
     "Fee": 100,
-    "Instrctor": "CSS Explore in 30min",
+    "Instructor": "Code With Harry",
     "Duration": 0.5,
     "Rating": 3.7
   },
@@ -31,25 +31,25 @@
     "Name": "Amazon Clone with Jhankar Mahabub",
     "Img": "https://images-na.ssl-images-amazon.com/images/I/31%2BDgxPWXtL.jpg",
     "Fee": 2000,
-    "Instrctor": "Jhankar Mahabub",
+    "Instructor": "Jhankar Mahabub",
     "Duration": 3.5,
-    "Rating": 4.7
+    "Rating": 4.5
   },
   {
     "id": 5,
     "Name": "CSS Grid",
     "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
     "Fee": 1500,
-    "Instrctor": "Kavin Powell",
+    "Instructor": "Kavin Powell",
     "Duration": 2.0,
-    "Rating": 4.5
+    "Rating": 1.5
   },
   {
     "id": 6,
     "Name": "Postmortom of Js",
     "Img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
     "Fee": 400,
-    "Instrctor": "Brad Traversy",
+    "Instructor": "Brad Traversy",
     "Duration": 3,
     "Rating": 5
   },
@@ -58,7 +58,7 @@
     "Name": "React",
     "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
     "Fee": 1000,
-    "Instrctor": "Jhankar Mahabub",
+    "Instructor": "Jhankar Mahabub",
     "Duration": 4.3,
     "Rating": 4.2
   },
@@ -67,7 +67,7 @@
     "Name": "Build with Django",
     "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
     "Fee": 600,
-    "Instrctor": "Net Ninja",
+    "Instructor": "Net Ninja",
     "Duration": 4,
     "Rating": 4
   },
@@ -76,7 +76,7 @@
     "Name": "Explore Redux",
     "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
     "Fee": 1500,
-    "Instrctor": "Jhankar Mahabub",
+    "Instructor": "Jhankar Mahabub",
     "Duration": 3,
     "Rating": 4.3
   },
@@ -85,7 +85,7 @@
     "Name": "Explore Ruby",
     "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
     "Fee": 500,
-    "Instrctor": "Jhankar Mahabub",
+    "Instructor": "Jhankar Mahabub",
     "Duration": 2.3,
     "Rating": 4
   },
@@ -94,7 +94,7 @@
     "Name": "Interactive with Js",
     "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
     "Fee": 700,
-    "Instrctor": "Anisul Islam",
+    "Instructor": "Anisul Islam",
     "Duration": 4.0,
     "Rating": 3.8
   },
@@ -103,7 +103,7 @@
     "Name": "PHP Basic",
     "Img": "https://i.udemycdn.com/user/200_H/21681922_4513_5.jpg",
     "Fee": 999,
-    "Instrctor": "Jhankar Mahabub",
+    "Instructor": "Jhankar Mahabub",
     "Duration": 2.0,
     "Rating": 4.5
   }
